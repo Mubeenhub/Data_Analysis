@@ -1,0 +1,7 @@
+city year population
+Beijing 1990 10.8
+Beijing 2000 13.6
+KARACHI 2010 19.6
+Shanghai 1990 13.3
+Shanghai 2000 16.4
+Shanghai 2010 23.0
